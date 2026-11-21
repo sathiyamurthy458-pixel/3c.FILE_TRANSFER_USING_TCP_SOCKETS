@@ -81,7 +81,7 @@ CLIENT
 
 SERVER
 
-<img width="1842" height="993" alt="image" src="https://github.com/user-attachments/assets/95ed65ab-cb31-479f-8407-624e84c13e86" />
+<img width="1561" height="937" alt="image" src="https://github.com/user-attachments/assets/de23cbca-bc4e-4196-9933-7e01ae5d251f" />
 
 
 ## RESULT
